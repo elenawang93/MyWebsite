@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a third year PhD student at the Department of Computational Mathematics, Sicence, and Engineering at Michigan State University under the supervision of Dr. Elizabeth Munch. My research interests include topological data analysis(TDA), computational and applied topology, and machine learning. My current research focuses on using topological sigantures to develop distance metrics between embedded graphs.
+I'm a third year PhD student at the Department of Computational Mathematics, Sicence, and Engineering at Michigan State University under the supervision of [Dr. Elizabeth Munch](https://elizabethmunch.com/). My research interests include topological data analysis(TDA), computational and applied topology, and machine learning. My current research focuses on using topological sigantures to develop distance metrics between embedded graphs.
 
 Outside of mathematics, I'm a classically trained pianists and flutist. I especially enjoy playing chamber music with my friends. I'm also interested in scholarly works in musicology and music theory.
 
