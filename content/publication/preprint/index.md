@@ -2,7 +2,7 @@
 title: "Taxonomy of Benchmarks in Graph Representation Learning"
 authors:
 - R. Liu
-- S. Canturk
+- S. Cantürk
 - F. Wenkel
 - S. McGuire
 - admin
@@ -12,7 +12,7 @@ authors:
 - B. Rieck
 - M. Hirn
 - G. Wolf
-- L. Rampasek
+- L. Rampášek
 date: "2022-06-15T00:00:00Z"
 doi: ""
 
