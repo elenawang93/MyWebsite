@@ -78,4 +78,4 @@ I'm a third year PhD student at the Department of Computational Mathematics, Sci
 
 Outside of mathematics, I'm a classically trained pianist and flutist. I especially enjoy playing chamber music with my friends. I'm also interested in scholarly works in musicology and music theory. I have a cat, {{< staticref "uploads/Shosty.jpg" "newtab" >}}Shosty{{< /staticref >}} (named after Dmitri Shostakovich), and a dog, {{< staticref "uploads/Wolfie.jpg" "newtab" >}}Wolfie{{< /staticref >}} (named after Wolfgang Amadeus Mozart).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} and {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
