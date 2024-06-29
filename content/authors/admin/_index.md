@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a third year PhD student at the Department of Computational Mathematics, Science, and Engineering at Michigan State University under the supervision of [Dr. Liz Munch](https://elizabethmunch.com/). My research interests include topological data analysis (TDA), computational topology and geometry, and machine learning. My current research focuses on using topology and geometry to develop new tools for data analysis.
+I'm a fifth year PhD candidate at the Department of Computational Mathematics, Science, and Engineering at Michigan State University under the supervision of [Dr. Liz Munch](https://elizabethmunch.com/). My research interests include topological data analysis (TDA), computational topology and geometry, and machine learning. My current research focuses on using topology and geometry to develop new tools for data analysis.
 
 Outside of mathematics, I'm a classically trained pianist and flutist, and I especially enjoy playing chamber music with my friends. I'm also interested in scholarly works in musicology and music theory. I have a cat, {{< staticref "uploads/Shosty.jpg" "newtab" >}}Shosty{{< /staticref >}} (named after Dmitri Shostakovich), and a dog, {{< staticref "uploads/Wolfie.jpg" "newtab" >}}Wolfie{{< /staticref >}} (named after Wolfgang Amadeus Mozart).
 
