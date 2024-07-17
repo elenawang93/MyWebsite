@@ -76,6 +76,8 @@ highlight_name: true
 
 I'm a fifth year PhD candidate at the Department of Computational Mathematics, Science, and Engineering at Michigan State University under the supervision of [Dr. Liz Munch](https://elizabethmunch.com/). My research interests include topological data analysis (TDA), computational topology and geometry, and machine learning. My current research focuses on using topology and geometry to develop new tools for data analysis.
 
+I interned at [Lawrence Berkeley Natiuonal Lab](https://www.lbl.gov/) in Summer 2023. I was mentored by [Dr. Dmitriy Morozov](https://mrzv.org/). In Fall 2023, I was a long-term visitor at [ICERM](https://icerm.brown.edu/) at Brown University.
+
 Outside of mathematics, I'm a classically trained pianist and flutist, and I especially enjoy playing chamber music with my friends. I'm also interested in scholarly works in musicology and music theory. I have a cat, {{< staticref "uploads/Shosty.jpg" "newtab" >}}Shosty{{< /staticref >}} (named after Dmitri Shostakovich), and a dog, {{< staticref "uploads/Wolfie.jpg" "newtab" >}}Wolfie{{< /staticref >}} (named after Wolfgang Amadeus Mozart).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
